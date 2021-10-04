@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+        
+    <wb-module deploy-name="2021_06_Academia">
+                
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+                
+        <property name="java-output-path" value="/2021_06_Academia/build/classes"/>
+        <property name="context-root" value="2021_08_Academia_PracticasPOO"/>
+            
+    </wb-module>
+    
+</project-modules>
